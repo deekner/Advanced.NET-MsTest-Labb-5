@@ -48,3 +48,12 @@ InterestRate keeps the variable for the interest rate and the method, IntRateMul
  
 
 Collaborateurs of this project are Tim Nilsson @BKKinvader, Dennis Ekner @Deekner, Anton Johansson @Rival7008 and Elin Linderholm @elli82
+
+
+Jag valde att testa Login, Transfer och Withdraw
+
+Login, jag tycker det är viktigt att användaren ska kunna logga in på ett individuellt konto så jag testar om UserName och Password faktiskt matchar och funkar
+
+Transaction, Valde fel namn på metodnamnet. Egentligen är det transfer där jag testar att man kan transfer pengar från ett konto till ett annat
+
+Withdraw, här testar jag att withdraw så att användaren inte kan withdraw mer pengar än vad som finns på kontot
